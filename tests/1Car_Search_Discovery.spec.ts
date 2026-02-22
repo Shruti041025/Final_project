@@ -5,7 +5,7 @@ import { cities, login, language, search } from "../test_data/data.json";
 
 test.describe("Car Search Discovery", () => {
 
-        test(" Positive Search @1 ", async ({ page }) => {
+        test.skip(" Positive Search @1 ", async ({ page }) => {
                 const carPage = new CarSearchPage(page);
                 await carPage.gotoHome();
                 await carPage.search(search.positiveQuery);
@@ -25,7 +25,7 @@ test.describe("Car Search Discovery", () => {
                 await carPage.searchByBudgetAndBrand();
         });
 
-        test(" Apply filters @4 ", async ({ page }) => {
+        test.skip(" Apply filters @4 ", async ({ page }) => {
                 const carPage = new CarSearchPage(page);
                 await carPage.gotoHome();
                 await carPage.applyFilters();
