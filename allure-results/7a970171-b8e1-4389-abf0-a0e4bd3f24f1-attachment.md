@@ -1,0 +1,150 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - text:     
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e7] [cursor=pointer]: 
+        - img "ai icon" [ref=e8]
+        - generic [ref=e9]: Ask Expert
+        - generic [ref=e10]:
+          - img "New chat icons" [ref=e11] [cursor=pointer]
+          - img "Ai history icons" [ref=e12] [cursor=pointer]
+      - iframe [ref=e13]:
+        - main [ref=f6e3]:
+          - complementary [ref=f6e4]:
+            - heading "Recent Chats" [level=3] [ref=f6e8]:
+              - img [ref=f6e9]
+              - text: Recent Chats
+          - generic [ref=f6e13]:
+            - button [ref=f6e15] [cursor=pointer]:
+              - img [ref=f6e16]
+            - generic [ref=f6e20]:
+              - paragraph [ref=f6e23]: Top Cars under 20L
+              - generic [ref=f6e24]:
+                - generic [ref=f6e26]:
+                  - img [ref=f6e28]
+                  - paragraph [ref=f6e30]: CarDekho
+                - generic [ref=f6e31]:
+                  - generic [ref=f6e33]:
+                    - generic [ref=f6e34]:
+                      - generic [ref=f6e35]:
+                        - img "Maruti Baleno Front Left Side Image" [ref=f6e36]
+                        - paragraph [ref=f6e37]: Maruti Baleno
+                      - generic [ref=f6e38]:
+                        - img "Hyundai i20 Front Left Side Image" [ref=f6e39]
+                        - paragraph [ref=f6e40]: Hyundai i20
+                      - generic [ref=f6e41]:
+                        - img "Tata Altroz Front Left Side Image" [ref=f6e42]
+                        - paragraph [ref=f6e43]: Tata Altroz
+                      - img "Tata Nexon Front Left Side Image" [ref=f6e45]
+                      - img "Maruti Brezza Front Left Side Image" [ref=f6e47]
+                      - img "Hyundai Venue Front Left Side Image" [ref=f6e49]
+                      - img "Kia Sonet Front Left Side Image" [ref=f6e51]
+                      - img "Hyundai Creta Front Left Side Image" [ref=f6e53]
+                      - img "Kia Seltos Front Left Side Image" [ref=f6e55]
+                      - img "Maruti Grand Vitara Front Left Side Image" [ref=f6e57]
+                      - img "Toyota Urban Cruiser Hyryder Front Left Side Image" [ref=f6e59]
+                      - img "Honda City Front Left Side Image" [ref=f6e61]
+                      - img "Hyundai Verna Front Left Side Image" [ref=f6e63]
+                      - img "Skoda Slavia Front Left Side Image" [ref=f6e65]
+                    - button [ref=f6e67] [cursor=pointer]:
+                      - img [ref=f6e68]
+                  - generic [ref=f6e70]:
+                    - paragraph [ref=f6e71]: "Under 20L you have a lot of good options. I’ll split them by type so it’s easier to think:"
+                    - paragraph [ref=f6e72]:
+                      - strong [ref=f6e73]: 1. Hatchbacks / Compact (easy city driving, more affordable)
+                    - list [ref=f6e74]:
+                      - listitem [ref=f6e75]:
+                        - strong [ref=f6e76]: Maruti Suzuki Baleno
+                      - listitem [ref=f6e77]:
+                        - strong [ref=f6e78]: Hyundai i20
+                      - listitem [ref=f6e79]:
+                        - strong [ref=f6e80]: Tata Altroz
+                        - text: Good if you want a practical daily car, good mileage, easy parking, and lower running costs.
+                    - paragraph [ref=f6e81]:
+                      - strong [ref=f6e82]: 2. Compact SUVs (most popular, good ground clearance, family friendly)
+                    - list [ref=f6e83]:
+                      - listitem [ref=f6e84]:
+                        - strong [ref=f6e85]: Tata Nexon
+                      - listitem [ref=f6e86]:
+                        - strong [ref=f6e87]: Maruti Suzuki Brezza
+                      - listitem [ref=f6e88]:
+                        - strong [ref=f6e89]: Hyundai Venue
+                      - listitem [ref=f6e90]:
+                        - strong [ref=f6e91]: Kia Sonet
+                        - text: Best balance of city + occasional highway, comfortable for 4–5 people, many features in this budget.
+                    - paragraph [ref=f6e92]:
+                      - strong [ref=f6e93]: 3. Mid-size SUVs (more space, better highway comfort)
+                    - list [ref=f6e94]:
+                      - listitem [ref=f6e95]:
+                        - strong [ref=f6e96]: Hyundai Creta
+                      - listitem [ref=f6e97]:
+                        - strong [ref=f6e98]: Kia Seltos
+                      - listitem [ref=f6e99]:
+                        - strong [ref=f6e100]: Maruti Suzuki Grand Vitara
+                      - listitem [ref=f6e101]:
+                        - strong [ref=f6e102]: Toyota Urban Cruiser Hyryder
+                        - text: Better for long trips, more boot space, sit more comfortably with family, stronger road presence.
+                    - paragraph [ref=f6e103]:
+                      - strong [ref=f6e104]: 4. Sedans (comfortable ride, good for highways)
+                    - list [ref=f6e105]:
+                      - listitem [ref=f6e106]:
+                        - strong [ref=f6e107]: Honda City
+                      - listitem [ref=f6e108]:
+                        - strong [ref=f6e109]: Hyundai Verna
+                      - listitem [ref=f6e110]:
+                        - strong [ref=f6e111]: Skoda Slavia
+                        - text: Smooth to drive, comfortable back seat, and usually more stable at high speeds than small SUVs.
+                    - paragraph [ref=f6e112]: To make a really useful shortlist for you (not just a big list), I need to know one thing.
+                    - separator [ref=f6e113]
+                    - paragraph [ref=f6e114]:
+                      - strong [ref=f6e115]: Do you prefer an SUV body style or a normal car (sedan/hatchback)?
+                  - generic [ref=f6e118]:
+                    - button [ref=f6e119] [cursor=pointer]:
+                      - img [ref=f6e120]
+                    - button [ref=f6e122] [cursor=pointer]:
+                      - img [ref=f6e123]
+                - generic [ref=f6e125]:
+                  - paragraph [ref=f6e126]: Related Queries
+                  - button "Compare cars" [ref=f6e127] [cursor=pointer]:
+                    - img [ref=f6e128]
+                    - text: Compare cars
+                  - button "Search another car" [ref=f6e130] [cursor=pointer]:
+                    - img [ref=f6e131]
+                    - text: Search another car
+                  - button "Apply filters" [ref=f6e133] [cursor=pointer]:
+                    - img [ref=f6e134]
+                    - text: Apply filters
+                  - button "Help me choose" [ref=f6e136] [cursor=pointer]:
+                    - img [ref=f6e137]
+                    - text: Help me choose
+            - generic [ref=f6e139]:
+              - generic [ref=f6e140]:
+                - textbox "Ask Anything about Cars" [ref=f6e141]
+                - button [ref=f6e143]:
+                  - img [ref=f6e144]
+              - generic [ref=f6e148]: Responses may be inaccurate. Be sure to verify important details
+            - dialog "Still there?" [ref=f6e149]:
+              - generic [ref=f6e150]:
+                - generic [ref=f6e151]:
+                  - heading "Still there?" [level=2] [ref=f6e152]:
+                    - img [ref=f6e153]
+                    - text: Still there?
+                  - paragraph [ref=f6e155]: What do you want to do next?
+                - generic [ref=f6e156]:
+                  - button "Recommend cars for me" [ref=f6e157]:
+                    - img [ref=f6e158]
+                    - text: Recommend cars for me
+                  - button "Check offers" [ref=f6e160]:
+                    - img [ref=f6e161]
+                    - text: Check offers
+                  - button "See more images" [ref=f6e163]:
+                    - img [ref=f6e164]
+                    - text: See more images
+                - button "Continue" [ref=f6e166]
+    - text:         
+  - complementary
+```

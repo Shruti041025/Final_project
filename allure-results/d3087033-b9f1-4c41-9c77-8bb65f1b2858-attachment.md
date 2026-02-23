@@ -1,0 +1,567 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e7]:
+        - link "CarDekho.com - Best place to buy New and Used Cars in India" [ref=e9] [cursor=pointer]:
+          - /url: /
+          - img "CarDekho.com - Best place to buy New and Used Cars in India" [ref=e10]
+        - generic [ref=e11]:
+          - generic:
+            - generic:
+              - generic:
+                - generic [ref=e13]:
+                  - generic [ref=e14]: All
+                  - img [ref=e15]
+                - generic:
+                  - textbox "Select City" [ref=e17]:
+                    - /placeholder: Search or Ask a Question
+                  - generic:
+                    - generic:
+                      - list
+                - generic: 
+                - generic: 
+        - generic [ref=e18]:
+          - complementary [ref=e19]
+          - list [ref=e20]:
+            - listitem [ref=e21]:
+              - generic [ref=e22] [cursor=pointer]: English
+            - listitem [ref=e23]:
+              - generic [ref=e25] [cursor=pointer]: 
+            - listitem [ref=e26]:
+              - generic [ref=e27] [cursor=pointer]:
+                - generic [ref=e28]: 
+                - text: Login / Register
+      - navigation [ref=e32]:
+        - list [ref=e33]:
+          - listitem [ref=e34]:
+            - generic [ref=e36]: NEW CARS
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Explore New Cars" [ref=e40] [cursor=pointer]:
+                  - /url: /newcars
+              - listitem [ref=e41]:
+                - generic [ref=e43]: Electric Cars
+              - listitem [ref=e45]:
+                - generic [ref=e47]: Popular Cars
+              - listitem [ref=e49]:
+                - link "Upcoming Cars" [ref=e50] [cursor=pointer]:
+                  - /url: /upcomingcars
+              - listitem [ref=e51]:
+                - link "New Launches" [ref=e52] [cursor=pointer]:
+                  - /url: /latestcars
+              - listitem [ref=e53]:
+                - generic [ref=e55]: Popular Brands
+              - listitem [ref=e57]:
+                - link "Compare Cars" [ref=e58] [cursor=pointer]:
+                  - /url: /compare-cars
+              - listitem [ref=e59]:
+                - link "New Car Offers & Discounts" [ref=e60] [cursor=pointer]:
+                  - /url: /car-deals-discount-offers.htm
+              - listitem [ref=e61]:
+                - link "Find Car Dealers" [ref=e62] [cursor=pointer]:
+                  - /url: /cardealers
+              - listitem [ref=e63]:
+                - link "Find EV Charging Stations" [ref=e64] [cursor=pointer]:
+                  - /url: /electric-charging-station
+              - listitem [ref=e65]:
+                - link "Find Fuel Stations" [ref=e66] [cursor=pointer]:
+                  - /url: /fuel-stations/new-delhi
+              - listitem [ref=e67]:
+                - link "Check Fuel Prices" [ref=e68] [cursor=pointer]:
+                  - /url: https://www.cardekho.com/fuel-price
+          - listitem [ref=e69]:
+            - generic [ref=e71]: Used cars
+            - list [ref=e73]:
+              - listitem [ref=e74]:
+                - link "Buy Used Cars" [ref=e75] [cursor=pointer]:
+                  - /url: https://www.cardekho.com/usedCars
+              - listitem [ref=e76]:
+                - generic [ref=e78]: Used Cars In Your City
+              - listitem [ref=e80]:
+                - link "Sell My Car" [ref=e81] [cursor=pointer]:
+                  - /url: https://www.cardekho.com/sell-used-car
+              - listitem [ref=e82]:
+                - link "Used Car Valuation" [ref=e83] [cursor=pointer]:
+                  - /url: https://www.cardekho.com/used-car-valuation.htm
+              - listitem [ref=e84]:
+                - generic [ref=e85]: Dealership Near Me
+          - listitem [ref=e86]:
+            - generic [ref=e88]: News & Reviews
+            - list [ref=e90]:
+              - listitem [ref=e91]:
+                - generic [ref=e92]: News & Top stories
+              - listitem [ref=e93]:
+                - generic [ref=e94]: Car Expert Reviews
+              - listitem [ref=e95]:
+                - generic [ref=e96]: User Reviews
+              - listitem [ref=e97]:
+                - generic [ref=e98]: Car Collection
+              - listitem [ref=e99]:
+                - generic [ref=e100]: Tips & Advice
+          - listitem [ref=e101]:
+            - generic [ref=e103]: Videos
+            - list [ref=e105]:
+              - listitem [ref=e106]:
+                - generic [ref=e107]: Video Reviews
+              - listitem [ref=e108]:
+                - generic [ref=e109]: Visual Stories
+        - generic [ref=e110]:
+          - generic [ref=e111]: 
+          - generic [ref=e112]: Select City
+    - generic [ref=e115]:
+      - complementary [ref=e116]:
+        - paragraph [ref=e117]: Ad
+      - generic [ref=e118]:
+        - link "Home" [ref=e120] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e121]: Suv under 10 Lakh
+      - generic [ref=e122]:
+        - heading "Search Results" [level=1] [ref=e123]
+        - generic [ref=e124]:
+          - generic [ref=e126]:
+            - generic [ref=e128]:
+              - textbox "Search" [ref=e129]: Suv under 10 Lakh
+              - generic: Search
+            - button "Search" [ref=e131] [cursor=pointer]
+          - generic [ref=e132]: About 0 results (0.0 seconds)
+          - generic [ref=e133]:
+            - generic [ref=e134]: No Result Found
+            - generic [ref=e135]:
+              - generic [ref=e136]:
+                - heading "The most searched cars" [level=2] [ref=e137]
+                - generic [ref=e138]:
+                  - list [ref=e140]:
+                    - listitem "SUV" [ref=e141]
+                    - listitem "Hatchback" [ref=e142]
+                    - listitem "Sedan" [ref=e143]
+                    - listitem "MUV" [ref=e144]
+                    - listitem "Luxury" [ref=e145]
+                  - generic [ref=e146]:
+                    - list [ref=e151]:
+                      - listitem [ref=e152]:
+                        - generic [ref=e153]:
+                          - img "Tata Punch" [ref=e155] [cursor=pointer]
+                          - generic [ref=e156]:
+                            - link "Tata Punch" [ref=e157] [cursor=pointer]:
+                              - /url: /tata/punch
+                            - generic [ref=e158]:
+                              - text: Rs5.60 - 10.55 Lakh
+                              - superscript [ref=e159]: "*"
+                      - listitem [ref=e160]:
+                        - generic [ref=e161]:
+                          - img "Tata Sierra" [ref=e163] [cursor=pointer]
+                          - generic [ref=e164]:
+                            - link "Tata Sierra" [ref=e165] [cursor=pointer]:
+                              - /url: /carmodels/Tata/Tata_Sierra
+                            - generic [ref=e166]:
+                              - text: Rs11.49 - 21.29 Lakh
+                              - superscript [ref=e167]: "*"
+                      - listitem [ref=e168]:
+                        - generic [ref=e169]:
+                          - img "Mahindra Scorpio N" [ref=e171] [cursor=pointer]
+                          - generic [ref=e172]:
+                            - link "Mahindra Scorpio N" [ref=e173] [cursor=pointer]:
+                              - /url: /mahindra/scorpio-n
+                            - generic [ref=e174]:
+                              - text: Rs13.49 - 24.34 Lakh
+                              - superscript [ref=e175]: "*"
+                      - listitem [ref=e176]:
+                        - generic [ref=e177]:
+                          - img "Mahindra Thar" [ref=e179] [cursor=pointer]
+                          - generic [ref=e180]:
+                            - link "Mahindra Thar" [ref=e181] [cursor=pointer]:
+                              - /url: /mahindra/thar
+                            - generic [ref=e182]:
+                              - text: Rs9.99 - 16.99 Lakh
+                              - superscript [ref=e183]: "*"
+                      - listitem [ref=e184]:
+                        - generic [ref=e185]:
+                          - img "Mahindra Scorpio" [ref=e187] [cursor=pointer]
+                          - generic [ref=e188]:
+                            - link "Mahindra Scorpio" [ref=e189] [cursor=pointer]:
+                              - /url: /mahindra/scorpio
+                            - generic [ref=e190]:
+                              - text: Rs12.98 - 16.70 Lakh
+                              - superscript [ref=e191]: "*"
+                      - listitem [ref=e192]:
+                        - generic [ref=e193]:
+                          - img "Maruti Brezza" [ref=e195] [cursor=pointer]
+                          - generic [ref=e196]:
+                            - link "Maruti Brezza" [ref=e197] [cursor=pointer]:
+                              - /url: /maruti/brezza
+                            - generic [ref=e198]:
+                              - text: Rs8.26 - 13.01 Lakh
+                              - superscript [ref=e199]: "*"
+                      - listitem [ref=e200]:
+                        - link " View All Suv Cars" [ref=e202] [cursor=pointer]:
+                          - /url: https://www.cardekho.com/best-suv
+                          - generic [ref=e204]: 
+                          - generic [ref=e205]: View All Suv Cars
+                    - list [ref=e210]:
+                      - listitem [ref=e211]:
+                        - generic [ref=e212]:
+                          - img "Maruti Swift" [ref=e214] [cursor=pointer]
+                          - generic [ref=e215]:
+                            - link "Maruti Swift" [ref=e216] [cursor=pointer]:
+                              - /url: /maruti/swift
+                            - generic [ref=e217]:
+                              - text: Rs5.79 - 8.80 Lakh
+                              - superscript [ref=e218]: "*"
+                      - listitem [ref=e219]:
+                        - generic [ref=e220]:
+                          - img "Maruti Baleno" [ref=e222] [cursor=pointer]
+                          - generic [ref=e223]:
+                            - link "Maruti Baleno" [ref=e224] [cursor=pointer]:
+                              - /url: /carmodels/Maruti/Maruti_Baleno
+                            - generic [ref=e225]:
+                              - text: Rs5.99 - 9.10 Lakh
+                              - superscript [ref=e226]: "*"
+                      - listitem [ref=e227]:
+                        - generic [ref=e228]:
+                          - img "Hyundai i20" [ref=e230] [cursor=pointer]
+                          - generic [ref=e231]:
+                            - link "Hyundai i20" [ref=e232] [cursor=pointer]:
+                              - /url: /hyundai/i20
+                            - generic [ref=e233]:
+                              - text: Rs5.99 - 10.44 Lakh
+                              - superscript [ref=e234]: "*"
+                      - listitem [ref=e235]:
+                        - generic [ref=e236]:
+                          - img "Tata Tiago" [ref=e238] [cursor=pointer]
+                          - generic [ref=e239]:
+                            - link "Tata Tiago" [ref=e240] [cursor=pointer]:
+                              - /url: /carmodels/Tata/Tata_Tiago
+                            - generic [ref=e241]:
+                              - text: Rs4.57 - 7.82 Lakh
+                              - superscript [ref=e242]: "*"
+                      - listitem [ref=e243]:
+                        - generic [ref=e244]:
+                          - img "Maruti Wagon R" [ref=e246] [cursor=pointer]
+                          - generic [ref=e247]:
+                            - link "Maruti Wagon R" [ref=e248] [cursor=pointer]:
+                              - /url: /maruti/wagon-r
+                            - generic [ref=e249]:
+                              - text: Rs4.99 - 6.95 Lakh
+                              - superscript [ref=e250]: "*"
+                      - listitem [ref=e251]:
+                        - generic [ref=e252]:
+                          - img "Maruti Alto K10" [ref=e254] [cursor=pointer]
+                          - generic [ref=e255]:
+                            - link "Maruti Alto K10" [ref=e256] [cursor=pointer]:
+                              - /url: /maruti/alto-k10
+                            - generic [ref=e257]:
+                              - text: Rs3.70 - 5.45 Lakh
+                              - superscript [ref=e258]: "*"
+                      - listitem [ref=e259]:
+                        - link " View All Hatchback Cars" [ref=e261] [cursor=pointer]:
+                          - /url: https://www.cardekho.com/best-hatchback
+                          - generic [ref=e263]: 
+                          - generic [ref=e264]: View All Hatchback Cars
+                    - list [ref=e269]:
+                      - listitem [ref=e270]:
+                        - generic [ref=e271]:
+                          - img "Maruti Dzire" [ref=e273] [cursor=pointer]
+                          - generic [ref=e274]:
+                            - link "Maruti Dzire" [ref=e275] [cursor=pointer]:
+                              - /url: /maruti/dzire
+                            - generic [ref=e276]:
+                              - text: Rs6.26 - 9.31 Lakh
+                              - superscript [ref=e277]: "*"
+                      - listitem [ref=e278]:
+                        - generic [ref=e279]:
+                          - img "Hyundai Verna" [ref=e281] [cursor=pointer]
+                          - generic [ref=e282]:
+                            - link "Hyundai Verna" [ref=e283] [cursor=pointer]:
+                              - /url: /hyundai/verna
+                            - generic [ref=e284]:
+                              - text: Rs10.79 - 17.13 Lakh
+                              - superscript [ref=e285]: "*"
+                      - listitem [ref=e286]:
+                        - generic [ref=e287]:
+                          - img "Hyundai Aura" [ref=e289] [cursor=pointer]
+                          - generic [ref=e290]:
+                            - link "Hyundai Aura" [ref=e291] [cursor=pointer]:
+                              - /url: /hyundai/aura
+                            - generic [ref=e292]:
+                              - text: Rs6 - 8.54 Lakh
+                              - superscript [ref=e293]: "*"
+                      - listitem [ref=e294]:
+                        - generic [ref=e295]:
+                          - img "BMW M5" [ref=e297] [cursor=pointer]
+                          - generic [ref=e298]:
+                            - link "BMW M5" [ref=e299] [cursor=pointer]:
+                              - /url: /bmw/m5
+                            - generic [ref=e300]:
+                              - text: Rs2.01 Cr
+                              - superscript [ref=e301]: "*"
+                      - listitem [ref=e302]:
+                        - generic [ref=e303]:
+                          - img "Volkswagen Virtus" [ref=e305] [cursor=pointer]
+                          - generic [ref=e306]:
+                            - link "Volkswagen Virtus" [ref=e307] [cursor=pointer]:
+                              - /url: /volkswagen/virtus
+                            - generic [ref=e308]:
+                              - text: Rs10.50 - 19 Lakh
+                              - superscript [ref=e309]: "*"
+                      - listitem [ref=e310]:
+                        - generic [ref=e311]:
+                          - img "Audi A4" [ref=e313] [cursor=pointer]
+                          - generic [ref=e314]:
+                            - link "Audi A4" [ref=e315] [cursor=pointer]:
+                              - /url: /audi/a4
+                            - generic [ref=e316]:
+                              - text: Rs46.25 - 55.11 Lakh
+                              - superscript [ref=e317]: "*"
+                      - listitem [ref=e318]:
+                        - link " View All Sedan Cars" [ref=e320] [cursor=pointer]:
+                          - /url: https://www.cardekho.com/best-sedan
+                          - generic [ref=e322]: 
+                          - generic [ref=e323]: View All Sedan Cars
+                    - list [ref=e328]:
+                      - listitem [ref=e329]:
+                        - generic [ref=e330]:
+                          - img "Maruti Ertiga" [ref=e332] [cursor=pointer]
+                          - generic [ref=e333]:
+                            - link "Maruti Ertiga" [ref=e334] [cursor=pointer]:
+                              - /url: /carmodels/Maruti/Maruti_Ertiga
+                            - generic [ref=e335]:
+                              - text: Rs8.80 - 12.94 Lakh
+                              - superscript [ref=e336]: "*"
+                      - listitem [ref=e337]:
+                        - generic [ref=e338]:
+                          - img "Toyota Innova Crysta" [ref=e340] [cursor=pointer]
+                          - generic [ref=e341]:
+                            - link "Toyota Innova Crysta" [ref=e342] [cursor=pointer]:
+                              - /url: /toyota/innova-crysta
+                            - generic [ref=e343]:
+                              - text: Rs18.85 - 25.67 Lakh
+                              - superscript [ref=e344]: "*"
+                      - listitem [ref=e345]:
+                        - generic [ref=e346]:
+                          - img "Kia Carens" [ref=e348] [cursor=pointer]
+                          - generic [ref=e349]:
+                            - link "Kia Carens" [ref=e350] [cursor=pointer]:
+                              - /url: /kia/carens
+                            - generic [ref=e351]:
+                              - text: Rs10.99 - 12.77 Lakh
+                              - superscript [ref=e352]: "*"
+                      - listitem [ref=e353]:
+                        - generic [ref=e354]:
+                          - img "Renault Triber" [ref=e356] [cursor=pointer]
+                          - generic [ref=e357]:
+                            - link "Renault Triber" [ref=e358] [cursor=pointer]:
+                              - /url: /renault/triber
+                            - generic [ref=e359]:
+                              - text: Rs5.76 - 8.60 Lakh
+                              - superscript [ref=e360]: "*"
+                      - listitem [ref=e361]:
+                        - generic [ref=e362]:
+                          - img "Toyota Innova Hycross" [ref=e364] [cursor=pointer]
+                          - generic [ref=e365]:
+                            - link "Toyota Innova Hycross" [ref=e366] [cursor=pointer]:
+                              - /url: /toyota/innova-hycross
+                            - generic [ref=e367]:
+                              - text: Rs18.48 - 31.30 Lakh
+                              - superscript [ref=e368]: "*"
+                      - listitem [ref=e369]:
+                        - generic [ref=e370]:
+                          - img "MG Windsor EV" [ref=e372] [cursor=pointer]
+                          - generic [ref=e373]:
+                            - link "MG Windsor EV" [ref=e374] [cursor=pointer]:
+                              - /url: /mg/windsor-ev
+                            - generic [ref=e375]:
+                              - text: Rs14 - 18.50 Lakh
+                              - superscript [ref=e376]: "*"
+                      - listitem [ref=e377]:
+                        - link " View All Muv Cars" [ref=e379] [cursor=pointer]:
+                          - /url: https://www.cardekho.com/best-muv
+                          - generic [ref=e381]: 
+                          - generic [ref=e382]: View All Muv Cars
+                    - list [ref=e387]:
+                      - listitem [ref=e388]:
+                        - generic [ref=e389]:
+                          - img "Defender" [ref=e391] [cursor=pointer]
+                          - generic [ref=e392]:
+                            - link "Defender" [ref=e393] [cursor=pointer]:
+                              - /url: /land-rover/defender
+                            - generic [ref=e394]:
+                              - text: Rs98 Lakh - 2.60 Cr
+                              - superscript [ref=e395]: "*"
+                      - listitem [ref=e396]:
+                        - generic [ref=e397]:
+                          - img "Porsche 911" [ref=e399] [cursor=pointer]
+                          - generic [ref=e400]:
+                            - link "Porsche 911" [ref=e401] [cursor=pointer]:
+                              - /url: /carmodels/Porsche/Porsche_911
+                            - generic [ref=e402]:
+                              - text: Rs2 - 3.80 Cr
+                              - superscript [ref=e403]: "*"
+                      - listitem [ref=e404]:
+                        - generic [ref=e405]:
+                          - img "Range Rover" [ref=e407] [cursor=pointer]
+                          - generic [ref=e408]:
+                            - link "Range Rover" [ref=e409] [cursor=pointer]:
+                              - /url: /land-rover/range-rover
+                            - generic [ref=e410]:
+                              - text: Rs2.31 - 4.25 Cr
+                              - superscript [ref=e411]: "*"
+                      - listitem [ref=e412]:
+                        - generic [ref=e413]:
+                          - img "Toyota Vellfire" [ref=e415] [cursor=pointer]
+                          - generic [ref=e416]:
+                            - link "Toyota Vellfire" [ref=e417] [cursor=pointer]:
+                              - /url: /toyota/vellfire
+                            - generic [ref=e418]:
+                              - text: Rs1.20 - 1.30 Cr
+                              - superscript [ref=e419]: "*"
+                      - listitem [ref=e420]:
+                        - generic [ref=e421]:
+                          - img "Range Rover Velar" [ref=e423] [cursor=pointer]
+                          - generic [ref=e424]:
+                            - link "Range Rover Velar" [ref=e425] [cursor=pointer]:
+                              - /url: /land-rover/range-rover-velar
+                            - generic [ref=e426]:
+                              - text: Rs83.90 Lakh
+                              - superscript [ref=e427]: "*"
+                      - listitem [ref=e428]:
+                        - generic [ref=e429]:
+                          - img "BMW X7" [ref=e431] [cursor=pointer]
+                          - generic [ref=e432]:
+                            - link "BMW X7" [ref=e433] [cursor=pointer]:
+                              - /url: /bmw/x7
+                            - generic [ref=e434]:
+                              - text: Rs1.25 - 1.29 Cr
+                              - superscript [ref=e435]: "*"
+                      - listitem [ref=e436]:
+                        - link " View All Luxury Cars" [ref=e438] [cursor=pointer]:
+                          - /url: https://www.cardekho.com/best-luxury-cars
+                          - generic [ref=e440]: 
+                          - generic [ref=e441]: View All Luxury Cars
+                - link "View AllSUV Cars" [ref=e443] [cursor=pointer]:
+                  - /url: /best-suv
+                - text: View All View All View All View All
+              - text: "*Ex-showroom price in New Delhi"
+    - contentinfo [ref=e445]:
+      - generic [ref=e447]:
+        - generic [ref=e448]:
+          - generic [ref=e449]: 
+          - generic [ref=e450]:
+            - generic [ref=e451]: "India’s #1"
+            - paragraph [ref=e452]: Largest Auto portal
+        - generic [ref=e453]:
+          - generic [ref=e454]: 
+          - generic [ref=e455]:
+            - generic [ref=e456]: AI Expert
+            - paragraph [ref=e457]: Simplify your car search
+        - generic [ref=e458]:
+          - generic [ref=e459]: 
+          - generic [ref=e460]:
+            - generic [ref=e461]: Offers
+            - paragraph [ref=e462]: Stay updated pay less
+        - generic [ref=e463]:
+          - generic [ref=e464]: 
+          - generic [ref=e465]:
+            - generic [ref=e466]: Compare
+            - paragraph [ref=e467]: Decode the right car
+      - navigation [ref=e468]:
+        - generic [ref=e470]:
+          - generic [ref=e471]:
+            - generic [ref=e472]: About CarDekho
+            - list [ref=e473]:
+              - listitem [ref=e474]:
+                - generic [ref=e475] [cursor=pointer]: About
+              - listitem [ref=e476]:
+                - link "Careers With Us" [ref=e477] [cursor=pointer]:
+                  - /url: https://careers.cardekho.com
+              - listitem [ref=e478]:
+                - link "Terms & Conditions" [ref=e479] [cursor=pointer]:
+                  - /url: https://www.cardekho.com/info/terms_and_condition
+              - listitem [ref=e480]:
+                - link "Privacy Policy" [ref=e481] [cursor=pointer]:
+                  - /url: https://www.cardekho.com/info/privacy_policy
+              - listitem [ref=e482]:
+                - link "Corporate Policies" [ref=e483] [cursor=pointer]:
+                  - /url: https://stimg.cardekho.com/policy/CSR-Policy-GSPL.pdf
+              - listitem [ref=e484]:
+                - link "Investors" [ref=e485] [cursor=pointer]:
+                  - /url: /investor
+              - listitem [ref=e486]:
+                - generic [ref=e487] [cursor=pointer]: FAQs
+          - generic [ref=e488]:
+            - generic [ref=e489]: Connect With Us
+            - list [ref=e490]:
+              - listitem [ref=e491]:
+                - generic [ref=e492] [cursor=pointer]: Feedback
+              - listitem [ref=e493]:
+                - generic [ref=e494] [cursor=pointer]: Contact Us
+              - listitem [ref=e495]:
+                - generic [ref=e496] [cursor=pointer]: Advertise with Us
+              - listitem [ref=e497]:
+                - generic [ref=e498] [cursor=pointer]: Become Partner Dealer
+          - generic [ref=e499]:
+            - generic [ref=e500]: OTHERS
+            - list [ref=e501]:
+              - listitem [ref=e502]:
+                - generic [ref=e503] [cursor=pointer]: TrucksDekho
+              - listitem [ref=e504]:
+                - generic [ref=e505] [cursor=pointer]: TyreDekho
+              - listitem [ref=e506]:
+                - generic [ref=e507] [cursor=pointer]: TractorsDekho
+              - listitem [ref=e508]:
+                - generic [ref=e509] [cursor=pointer]: Girnar Vision Fund
+              - listitem [ref=e510]:
+                - generic [ref=e511] [cursor=pointer]: Emergency Response
+              - listitem [ref=e512]:
+                - generic [ref=e513] [cursor=pointer]: Car Sales Trends
+          - generic [ref=e514]:
+            - generic [ref=e515]: EXPERIENCE CARDEKHO APP
+            - list [ref=e516]:
+              - listitem [ref=e517]:
+                - img "Download CarDekho’s Free iOS App" [ref=e519] [cursor=pointer]
+              - listitem [ref=e520]:
+                - img "Download CarDekho’s Free Android App" [ref=e522] [cursor=pointer]
+          - generic [ref=e523]:
+            - text: CarDekho Group Ventures
+            - list:
+              - listitem [ref=e524]:
+                - link "BikeDekho" [ref=e525] [cursor=pointer]:
+                  - /url: https://www.bikedekho.com/
+                  - img "BikeDekho" [ref=e526]
+              - listitem [ref=e527]:
+                - img "Rupyy" [ref=e529] [cursor=pointer]
+              - listitem [ref=e530]:
+                - img [ref=e532]
+              - listitem [ref=e533]:
+                - img "Car Insurance" [ref=e535] [cursor=pointer]
+              - listitem [ref=e536]:
+                - img "Revv" [ref=e538] [cursor=pointer]
+      - generic [ref=e541]:
+        - paragraph [ref=e543]: © 2026 Girnar Software Pvt. Ltd.
+        - generic [ref=e545]:
+          - generic [ref=e546]: "Connect:"
+          - list [ref=e547]:
+            - listitem [ref=e548]:
+              - link "" [ref=e549] [cursor=pointer]:
+                - /url: https://www.facebook.com/CarDekho/
+                - generic [ref=e550]: 
+            - listitem [ref=e551]:
+              - link "" [ref=e552] [cursor=pointer]:
+                - /url: https://twitter.com/CarDekho
+                - generic [ref=e553]: 
+            - listitem [ref=e554]:
+              - link "" [ref=e555] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCMSjsvDuobchFSw5U1SDaqg
+                - generic [ref=e556]: 
+            - listitem [ref=e557]:
+              - link "" [ref=e558] [cursor=pointer]:
+                - /url: https://www.instagram.com/cardekhoindia/
+                - generic [ref=e559]: 
+            - listitem [ref=e560]:
+              - link "" [ref=e561] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/cardekhogroup/
+                - generic [ref=e562]: 
+  - complementary
+```
