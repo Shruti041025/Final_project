@@ -1,0 +1,62 @@
+Error changing city to Chennai: ExpectError: expect(received).toContain(expected) // indexOf
+
+Expected substring: "Chennai"
+Received string:    "Tata Tiago on road price in New Delhi"
+    at CarPage.changeCity (C:\Users\2464142\Downloads\Final_Major_project_Cardekho (3)\Final_Major_project_Cardekho\Major_project_Cardekho\pages\CarComparePage.ts:55:42)
+    at C:\Users\2464142\Downloads\Final_Major_project_Cardekho (3)\Final_Major_project_Cardekho\Major_project_Cardekho\tests\2Car_Details_Comparison.spec.ts:14:17)
+    at C:\Users\2464142\Downloads\Final_Major_project_Cardekho (3)\Final_Major_project_Cardekho\Major_project_Cardekho\node_modules\playwright\lib\worker\workerMain.js:323:9)
+    at C:\Users\2464142\Downloads\Final_Major_project_Cardekho (3)\Final_Major_project_Cardekho\Major_project_Cardekho\node_modules\playwright\lib\worker\testInfo.js:320:11)
+    at C:\Users\2464142\Downloads\Final_Major_project_Cardekho (3)\Final_Major_project_Cardekho\Major_project_Cardekho\node_modules\playwright\lib\worker\workerMain.js:321:7) {
+  matcherResult: {
+    message: '\x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoContain\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // indexOf\x1B[22m\n' +
+      '\n' +
+      'Expected substring: \x1B[32m"Chennai"\x1B[39m\n' +
+      'Received string:    \x1B[31m"Tata Tiago on road price in New Delhi"\x1B[39m',
+    pass: false
+  },
+  Symbol(step): {
+    category: 'expect',
+    apiName: 'expect.toContain',
+    title: 'Expect "toContain"',
+    shortTitle: 'Expect "toContain"',
+    params: { expected: 'Chennai' },
+    infectParentStepsWithError: undefined,
+    stepId: 'expect@33',
+    group: undefined,
+    boxedStack: undefined,
+    location: {
+      file: 'C:\\Users\\2464142\\Downloads\\Final_Major_project_Cardekho (3)\\Final_Major_project_Cardekho\\Major_project_Cardekho\\pages\\CarComparePage.ts',
+      line: 55,
+      column: 42,
+      function: 'CarPage.changeCity'
+    },
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'expect@33',
+      _title: 'Expect "toContain"',
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1771906492045,
+    error: {
+      message: 'Error: \x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoContain\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // indexOf\x1B[22m\n' +
+        '\n' +
+        'Expected substring: \x1B[32m"Chennai"\x1B[39m\n' +
+        'Received string:    \x1B[31m"Tata Tiago on road price in New Delhi"\x1B[39m',
+      stack: 'Error: \x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoContain\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // indexOf\x1B[22m\n' +
+        '\n' +
+        'Expected substring: \x1B[32m"Chennai"\x1B[39m\n' +
+        'Received string:    \x1B[31m"Tata Tiago on road price in New Delhi"\x1B[39m\n' +
+        '    at CarPage.changeCity (C:\\Users\\2464142\\Downloads\\Final_Major_project_Cardekho (3)\\Final_Major_project_Cardekho\\Major_project_Cardekho\\pages\\CarComparePage.ts:55:42)\n' +
+        '    at C:\\Users\\2464142\\Downloads\\Final_Major_project_Cardekho (3)\\Final_Major_project_Cardekho\\Major_project_Cardekho\\tests\\2Car_Details_Comparison.spec.ts:14:17)\n' +
+        '    at C:\\Users\\2464142\\Downloads\\Final_Major_project_Cardekho (3)\\Final_Major_project_Cardekho\\Major_project_Cardekho\\node_modules\\playwright\\lib\\worker\\workerMain.js:323:9)\n' +
+        '    at C:\\Users\\2464142\\Downloads\\Final_Major_project_Cardekho (3)\\Final_Major_project_Cardekho\\Major_project_Cardekho\\node_modules\\playwright\\lib\\worker\\testInfo.js:320:11)\n' +
+        '    at C:\\Users\\2464142\\Downloads\\Final_Major_project_Cardekho (3)\\Final_Major_project_Cardekho\\Major_project_Cardekho\\node_modules\\playwright\\lib\\worker\\workerMain.js:321:7)',
+      cause: undefined
+    }
+  }
+}

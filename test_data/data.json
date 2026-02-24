@@ -15,6 +15,6 @@
     "search": {
         "positiveQuery": "Suv under 10 Lakh",
         "positiveExpected": "SUV Cars Under 10 Lakh",
-        "negativeQuery": "Priya"
+        "negativeQuery": "Shruti"
     }
 }

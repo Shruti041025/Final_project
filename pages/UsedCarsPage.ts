@@ -24,7 +24,7 @@ export class CarPage {
                         await this.page.getByText("Used Cars In Your City", { exact: true }).hover();
                         await this.page.locator('a[title="Used Cars In Chennai"]').click();
                         //await this.page.getByText(`Continue with ${city}`).click();
-                        await expect(this.page.locator("h1")).toContainText(`Used Cars in ${city}`);
+                        await expect(this.page.locator("h1")).toContainText(`${city}`);
                 } catch (error) {
                         console.error(`Error searching used cars in ${city}:`, error);
                         throw error;

@@ -1,0 +1,44 @@
+Error navigating to home: page.goto: Target page, context or browser has been closed
+    at CarPage.navigateHome (C:\Users\2464142\Downloads\Final_Major_project_Cardekho (3)\Final_Major_project_Cardekho\Major_project_Cardekho\pages\CarComparePage.ts:12:41)
+    at C:\Users\2464142\Downloads\Final_Major_project_Cardekho (3)\Final_Major_project_Cardekho\Major_project_Cardekho\tests\2Car_Details_Comparison.spec.ts:33:31)
+    at C:\Users\2464142\Downloads\Final_Major_project_Cardekho (3)\Final_Major_project_Cardekho\Major_project_Cardekho\node_modules\playwright\lib\worker\workerMain.js:323:15)
+    at C:\Users\2464142\Downloads\Final_Major_project_Cardekho (3)\Final_Major_project_Cardekho\Major_project_Cardekho\node_modules\playwright\lib\worker\testInfo.js:320:17)
+    at C:\Users\2464142\Downloads\Final_Major_project_Cardekho (3)\Final_Major_project_Cardekho\Major_project_Cardekho\node_modules\playwright\lib\worker\workerMain.js:321:22) {
+  Symbol(step): {
+    location: {
+      file: 'C:\\Users\\2464142\\Downloads\\Final_Major_project_Cardekho (3)\\Final_Major_project_Cardekho\\Major_project_Cardekho\\pages\\CarComparePage.ts',
+      line: 12,
+      column: 41,
+      function: 'CarPage.navigateHome'
+    },
+    category: 'pw:api',
+    title: 'Navigate to "/"',
+    apiName: 'page.goto',
+    params: { url: '/', waitUntil: 'load', timeout: 0 },
+    group: undefined,
+    stepId: 'pw:api@24',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@24',
+      _title: 'Navigate to "/"',
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1771868395331,
+    error: {
+      message: 'Error: page.goto: Target page, context or browser has been closed',
+      stack: 'Error: page.goto: Target page, context or browser has been closed\n' +
+        '    at CarPage.navigateHome (C:\\Users\\2464142\\Downloads\\Final_Major_project_Cardekho (3)\\Final_Major_project_Cardekho\\Major_project_Cardekho\\pages\\CarComparePage.ts:12:41)\n' +
+        '    at C:\\Users\\2464142\\Downloads\\Final_Major_project_Cardekho (3)\\Final_Major_project_Cardekho\\Major_project_Cardekho\\tests\\2Car_Details_Comparison.spec.ts:33:31)\n' +
+        '    at C:\\Users\\2464142\\Downloads\\Final_Major_project_Cardekho (3)\\Final_Major_project_Cardekho\\Major_project_Cardekho\\node_modules\\playwright\\lib\\worker\\workerMain.js:323:15)\n' +
+        '    at C:\\Users\\2464142\\Downloads\\Final_Major_project_Cardekho (3)\\Final_Major_project_Cardekho\\Major_project_Cardekho\\node_modules\\playwright\\lib\\worker\\testInfo.js:320:17)\n' +
+        '    at C:\\Users\\2464142\\Downloads\\Final_Major_project_Cardekho (3)\\Final_Major_project_Cardekho\\Major_project_Cardekho\\node_modules\\playwright\\lib\\worker\\workerMain.js:321:22)',
+      cause: undefined
+    }
+  }
+}
